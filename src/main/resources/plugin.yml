@@ -1,0 +1,5 @@
+name: Timer
+version: '${version}'
+
+main: me.lucanius.timer.Timer
+api-version: '26.1'
